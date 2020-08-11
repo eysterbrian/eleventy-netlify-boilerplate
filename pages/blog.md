@@ -7,3 +7,8 @@ eleventyNavigation:
   key: Blog
   order: 2
 ---
+Here are all our blog posts.
+
+And just for fun here's a youtube video:
+
+youtube teTM9-LD8eo
